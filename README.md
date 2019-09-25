@@ -5,4 +5,5 @@ To do so, it´s necessary to have 2 Arduino boards, one for signal emission and 
 
 <center><a href="https://imgur.com/8bKb6tT"><img src="https://i.imgur.com/8bKb6tT.png" title="source: imgur.com" /></a><br>
 <a href="https://github.com/bolderflight"> bolderflight</a> has plenty information about s.bus protocol. Also I found useful this <a href="https://quadmeup.com/generate-s-bus-with-arduino-in-a-simple-way/"> article</a>. <br>
-  Perhaps Arduino isn´t the best option to this project but for now I´m working with Arduino. 
+  Perhaps Arduino isn´t the best option to this project but for now I´m working with Arduino. <br> 
+  I have tried to develop an s.bus signal to the trasmmiter that works but my trasmitter doesn't admit it for some reason. 
